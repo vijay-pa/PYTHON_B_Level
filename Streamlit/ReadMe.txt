@@ -1,0 +1,1 @@
+-This is practice project for streamlit with titanic dataset
